@@ -38,7 +38,7 @@ To analyze and visualize historical sales data to uncover patterns in revenue, s
 
 ## 📸 Screenshots
 
-<img src="![Dashboard Screenshot](./https://github.com/chirag31045/Sales-Insights/blob/d36a48106db62f62f27a38f2411ece09a4f97a94/Screenshot%20(690).png)" width="800"/>
+ <img src="https://github.com/chirag31045/Sales-Insights/blob/fa65ca8afce8f47d83585663cd7991276e06664a/Screenshot%20(690).png" width="800" />
 ---
 
 ## 📁 Project Files
